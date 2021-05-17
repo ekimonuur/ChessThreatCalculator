@@ -18,6 +18,10 @@ Vezir	        v	      9
 Şah	          s	      100
 
 ## Programı Çalıştırmak
+### 1.)
 ### Visual Studio üzerinden direkt çalıştırmak için dosya içerisinde ki ChessThreatCalculator.sln solution dosyası ile çalıştılabilir. Program derlendiğinde board2.txt otomatik çalışacaktır. Bağımlı olduğu dosyalar uygun çözüme göre değiştirilebilir. 
 
-### 
+### 2.)
+### Command (cmd) üzerinden lokasyon ile ChessThreatCalculator/ChessThreatCalculator/ChessThreatCalculator/bin/Debug/net5.0/  lokasyonun da "ChessThreatCalcutor.exe board1.txt" yazarak komut satırını çalıştırarak sonuç görülebilir. Burada board1.txt yerine klasörde bulunan board2 ve board3 txt dosyaları da aynı şekilde exe'nin yanına yazılarak çalıştırılabilir. Ayrıca istenilen formatta txt dosyası oluşturup kenid değerlerinizi atamak isterseniz de program çalışacaktır. 
+
+Teşekkürler
