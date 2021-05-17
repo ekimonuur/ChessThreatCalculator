@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "g8bW5WF5kbhOufmx4Y3HCrDuIIFtDFmCG+NMh4rTaVbbpy+jEUBvkLfjZ3I3LJO6IjwE67scdvPeSG73/83QEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Onur\\Desktop\\ChessThreatCalculator\\ChessThreatCalculator\\ChessThreatCalculator\\ChessThreatCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Onur\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Onur\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Onur\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Onur\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Onur\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Onur\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Onur\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

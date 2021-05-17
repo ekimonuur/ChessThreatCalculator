@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChessThreatCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "board1.txt"
+    }
+  }
+}
